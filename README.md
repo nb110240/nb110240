@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Neil Bajaj (@nb110240) 
-- 👀 I’m interested in Data Analytics and Machine learning
+- 👀 I’m interested in Data Analytics and Machine learning.
+- I am actively looking for a full-time role in Data Analytics/ Machine Learning 
 - 📈 I recently graduated: Major: Mathematics-Computer Science with a Minor in Machine Learning from UC San Diego. 
 - 💞️ I’m looking to collaborate on research papers / projects/ coding projects
 - 📫 How to reach me: email: neilbajaj1102@hotmail.com / nbajaj@ucsd.edu
