@@ -3,7 +3,7 @@
 - I am actively looking for a full-time role in Data Analytics/ Machine Learning 
 - 📈 I recently graduated: Major: Mathematics-Computer Science with a Minor in Machine Learning from UC San Diego. 
 - 💞️ I’m looking to collaborate on research papers / projects/ coding projects
-- 📫 How to reach me: email: neilbajaj1102@hotmail.com / nbajaj@ucsd.edu
+- 📫 How to reach me: email: neilbajaj1102@hotmail.com 
 -                     discord: Neil#2877
 - Here is a link to my projects slides - https://docs.google.com/presentation/d/1aNhx414P8ql5bWCx5MS7x4RsVSSZaRa2a9kNUrHO32c/edit?usp=sharing 
 
