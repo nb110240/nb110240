@@ -1,7 +1,7 @@
 👋 Hi, I'm Neil Bajaj (@nb110240)
 
 * 👀 I'm interested in Data Analytics, Machine Learning, and AI Automation.
-* 💼 I'm currently working as a **Data & AI Consultant** at Citrin Cooperman, building intelligent automation systems, AI agents, and data pipelines using the Microsoft stack (Power BI, Copilot Studio, Azure AI Foundry, Microsoft Fabric).
+* 💼 I worked as a **Data & AI Consultant** at Citrin Cooperman, building intelligent automation systems, AI agents, and data pipelines using the Microsoft stack (Power BI, Copilot Studio, Azure AI Foundry, Microsoft Fabric).
 * 🚀 I'm also the **Founder of SersweAI** — a boutique AI agency helping small businesses and solo-entrepreneurs automate workflows, generate leads, and scale using tools like N8N and Claude AI.
 * 📈 I graduated in June 2024: Major: Mathematics-Computer Science with a Minor in Machine Learning from UC San Diego. GPA: 3.60/4.00
 * 💞️ I'm looking to collaborate on AI/automation projects, research papers, and anything at the intersection of data and real-world business impact.
