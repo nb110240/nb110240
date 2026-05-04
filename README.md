@@ -10,7 +10,8 @@
 discord: Neil#2877
 ```
 
-* Here is a link to my projects slides — **https://docs.google.com/presentation/d/1aNhx414P8ql5bWCx5MS7x4RsVSSZaRa2a9kNUrHO32c/edit?usp=sharing**
+* Here is a link to my portfolio  — **neilbajaj.com**
+* Here is a link to my AI consultancy - **sersweai.com**
 
 <!---
 nb110240/nb110240 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
