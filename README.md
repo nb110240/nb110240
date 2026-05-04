@@ -5,7 +5,7 @@
 * 🚀 I'm also the **Founder of SersweAI** — a boutique AI agency helping small businesses and solo-entrepreneurs automate workflows, generate leads, and scale using tools like N8N and Claude AI.
 * 📈 I graduated in June 2024: Major: Mathematics-Computer Science with a Minor in Machine Learning from UC San Diego. GPA: 3.60/4.00
 * 💞️ I'm looking to collaborate on AI/automation projects, research papers, and anything at the intersection of data and real-world business impact.
-* 📫 How to reach me: email: **neilbajaj1102@hotmail.com**
+* 📫 How to reach me: email: **neilbajaj1102@gmail.com**
 ```
 discord: Neil#2877
 ```
